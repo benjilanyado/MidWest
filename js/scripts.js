@@ -107,7 +107,7 @@ var boxs = [
 
     {
         selector: '#cover4',
-        headline: 'Ginos East Pizza',
+        headline: "Gino's East Pizza",
         copy: "OK, let's talk about the deep dish. You know what? It's fine. In fact, I'd go as far as saying it's good. These guys clearly know what they're doing - the crust is big, but not offensively so. And the stuff in the middle, it's upside down (sauce over cheese), but the sauce is rich and sweet.",
         content: '<img src="images/GinosEast.jpg">',
         address: "• <a target='blank' href='http://ginoseast.com/''>Gino's East</a>, 2801 N. Lincoln Ave, Chicago, + <a target='blank' href='tel:773%20327%203737'>773 327 3737</a>, <a target='blank' href='http://ginoseast.com/''>ginoseast.com</a>"
@@ -158,7 +158,7 @@ var boxs = [
     {
         selector: '#cover11',
         headline: 'Brown County Sate Park, Indiana',
-        copy: "Love this drive through Brown County Sate Park, Indiana. Our straight-line route has warped into the forest, wild woods either side of us, the occasional beautiful log cabin.",
+        copy: "Love this drive through Brown County state park, Indiana. Our straight-line route has warped into the forest, wild woods either side of us, the occasional beautiful log cabin.",
         content: '<img src="images/BrownCountySatePark.jpg">',
         address: ''
     },
@@ -166,7 +166,7 @@ var boxs = [
     {
         selector: '#cover12',
         headline: 'TC Steele',
-        copy: "A visit to TC Steele's converted farm up on a forest ridge in the Brown County State Park. In 1907 Steele turned seven abandoned farmhouses and fields of struggling sorghum and tobacco into his beautiful artistic refuge..",
+        copy: "A visit to TC Steele's converted farm up on a forest ridge in the Brown County state park. In 1907 Steele turned seven abandoned farmhouses and fields of struggling sorghum and tobacco into his beautiful artistic refuge..",
         content: '<img src="images/TCSteele.jpg">',
         address: '• TC Steele, 4220 TC Steele Road, Nashville, Indiana, <a target="_blank" href="http://tcsteele.org/"><b>tcsteele<b/>.org</a>'
     },
@@ -174,7 +174,7 @@ var boxs = [
     {
         selector: '#cover13',
         headline: "Indiana University",
-        copy: "Senior Matt walks us around the beautiful campus, lined with imposing faculty buildings built with the trademark local limestone – the same stone was used to build the Empire State Building.. ",
+        copy: "Senior Matt walks us around the beautiful campus, lined with imposing faculty buildings built with the trademark local limestone – the same stone was used to build the Empire State Building. ",
         content: '<img src="images/IndianaUniversity.jpg">',
         address: "• Indiana University, Bloomington, <a target='blank' href='http://indiana.edu/''><b>indiana</b>.edu</a>"
     },
@@ -198,14 +198,14 @@ var boxs = [
     {
         selector: '#cover16',
         headline: 'Welcome To Tennessee',
-        copy: "We've crossed state lines from Kentucky into Tennessee - and a time zone, - and are currently on the outskirts of Nashville with a thick stream of rush-hour traffic travelling in the opposite direction.",
+        copy: "We've crossed state lines from Kentucky into Tennessee - and a time zone - and are currently on the outskirts of Nashville with a thick stream of rush-hour traffic travelling in the opposite direction.",
         content: '<img src="images/Tennessee.jpg">',
         address: ''
     },
 
     {
         selector: '#cover18',
-        headline: 'Roberts Western World',
+        headline: "Robert's Western World",
         copy: "Downtown Nashville: a five-block honky tonk Vegas lined with neon and more than 50 bars. It's brash, bright, teetering between classic and tacky, and I instantly love it. We finish in Roberts. A 'shotgun bar' – long and thin and lined with shelves of cowboy boots and neon. ",
         content: '<img src="images/RobertsWesternWorld.jpg">',
         address: "• Roberts Western World, 416 Broadway  Nashville, TN,<a target='blank' href='http://robertswesternworld.com/'> robertswesternworld.com</a>"
@@ -214,7 +214,7 @@ var boxs = [
     {
         selector: '#cover17',
         headline: 'Buffalo Trace Distillery',
-        copy: "A bourbon tasting with Don at Buffalo Trace Distillery in Frankfort. A sip straight up; a sip after a firm swirl (better); and a sip with a drop of water to 'take the edge off'. Every now and then, Don tells us, he likes to have a little Bourbon Cream – the equivalent of Baileys - on his oatmeal in the morning, to 'hit the road running'.",
+        copy: "A bourbon tasting with Don at Buffalo Trace Distillery in Frankfort. A sip straight up; a sip after a firm swirl (better); and a sip with a drop of water to 'take the edge off'. Every now and then, Don tells us, he likes to have a little Bourbon Cream - the equivalent of Baileys - on his oatmeal in the morning, to 'hit the road running'.",
         content: '<img src="images/BuffaloTraceDistillery.jpg">',
         address: "• Buffalo Trace Distillery, 113 Great Buffalo Trace  Frankfort, KY <a target='blank' href='http://buffalotrace.com/'>buffalotrace.com</a>"
     },
@@ -229,7 +229,7 @@ var boxs = [
 
     {
         selector: '#cover20',
-        headline: 'Loretta Lynns Ranch',
+        headline: "Loretta Lynn's Ranch",
         copy: "Here are some things you can buy in the Loretta Lynn gift shop: Loretta Lynn pepper jelly, Loretta Lynn animal cookies, Loretta Lynn pickles, Loretta Lynn crystal candy, Loretta Lynn pen knives, Loretta Lynn Picture frames.",
         content: '<img src="images/LorettaLynnsRanch.jpg">',
         address: "Loretta Lynn Ranch, 44 Hurricane Mills Rd, Hurricane Mills, TN, <a href='http://www.lorettalynnranch.net'>lorettalynnranch.net</a>"
@@ -248,7 +248,7 @@ var boxs = [
         headline: "Delta Fair and Music Festival",
         copy: "Delta Fair is like any fair, really, with dozens of rides and stalls and food vendors. Until you get to the back, where there's a giant sandpit surrounded by bleachers. They're filling up. In the middle of the sandpit, a red pen. Everyone is staring at it. Shortly, it's man versus pig..",
         content: '<img src="images/DeltaFair.jpg">',
-        address: "• Delta Fair and Music Festival, 7777 Walnut Grove Rd  Memphis, TN, <a target='blank' href='http://fest.com/''>deltafest.com</a>"
+        address: "• Delta Fair and Music Festival, 7777 Walnut Grove Rd  Memphis, TN, <a target='blank' href='http://deltafest.com/''>deltafest.com</a>"
     }
 
 
