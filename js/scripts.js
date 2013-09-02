@@ -157,7 +157,7 @@ var boxs = [
 
     {
         selector: '#cover11',
-        headline: 'Brown County Sate Park, Indiana',
+        headline: 'Brown County State Park, Indiana',
         copy: "Love this drive through Brown County state park, Indiana. Our straight-line route has warped into the forest, wild woods either side of us, the occasional beautiful log cabin.",
         content: '<img src="images/BrownCountySatePark.jpg">',
         address: ''
